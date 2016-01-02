@@ -1,7 +1,7 @@
 <h2>Flex</h2>
 <br>
 <strong>Example-1</strong><br>
-6 items distributed horizontally that resizes with browser<br>
+6 items distributed horizontally that adapts to the size of the browser<br>
 flex-flow: row wrap; = flex-direction: row; + flex-wrap: wrap;
 <br>
 <h4>Learning and resources</h4>
